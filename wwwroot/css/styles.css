@@ -55,9 +55,7 @@ padding-top:100px;
     border-radius:15px ;
     
 }
-.form-section button{
-    background-color:teal;
-}
+
 
 .task h2{
     display: inline-block;
@@ -70,7 +68,7 @@ padding-top:100px;
    text-align: right;
 }
 .add-btn {
-    background-color: teal;
+   
     font-size: 20px;
 }
 
