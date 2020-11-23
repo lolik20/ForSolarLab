@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lolik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lolik\\.nuget\\packages"
+    ]
+  }
+}
